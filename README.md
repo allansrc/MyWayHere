@@ -7,7 +7,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 **Allan Ramos** is a Speaker, Software Developer and Linguistics Researcher. Graduated in Systems Analysis, majoring in English - Linguistics: Acoustic Phonetics, Dart/Flutter and mobile experience, contributes to Brazil communities.
   
 Twitter:  [@allansrc](https://twitter.com/allansrc)  
-Linkedin:  [br.linkedin.com/in/allansrc](http://br.linkedin.com/in/allansrc)  
+Linkedin:  [br.linkedin.com/in/allanrt](http://br.linkedin.com/in/allanrt)  
 Github:  [github.com/allansrc](https://github.com/allansrc)  
 Medium:  [@allansrc](http://medium.com/allansrc/)
 
